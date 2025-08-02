@@ -1,0 +1,7 @@
+git init
+git status
+git status
+git add Git_commands.txt
+git status
+git commit -m "adding file to tracked files "
+git status
