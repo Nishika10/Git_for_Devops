@@ -5,3 +5,14 @@ git add Git_commands.txt
 git status
 git commit -m "adding file to tracked files "
 git status
+git status
+git commit -m "added content to the file"
+git add Git_commands.txt
+git status
+git commit -m "added content to the file"
+git status
+git remote add origin https://github.com/Nishika10/Git_for_Devops.git
+git remote -v
+git remote set-url origin https://PAT@github.com/Nishika10/Git_for_Devops.git
+git remote -v
+git push origin master
